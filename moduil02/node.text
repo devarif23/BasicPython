@@ -1,11 +1,8 @@
 2.1 Introduction to String
 
         String length বের করো "Python" → Output: 6
-
         Uppercase এ রূপান্তর "python programming" → Output: "PYTHON PROGRAMMING"
-
         String concatenate "Hello" + "World" → Output: "Hello World"
-
         Access character "Python" ৩য় index → Output: "h"
 
 2.2 Indexing in String
@@ -18,104 +15,75 @@
 
         Slice "Python" first 4 letters → Output: "Pyth"
 
+
 2.3 String Immutability
 
         Try changing "Python"[0] = "J" → Error দেখো
-
         Replace "Python" "P" with "J" → Output: "Jython"
-
         Concatenate string to create new "Python" + "3" → Output: "Python3"
-
         Convert string to list, change element, back to string
 
 2.4 String Methods
 
         "Python Programming".lower() → Output: "python programming"
-
         " hello ".strip() → Output: "hello"
-
         "Python".startswith("P") → Output: True
-
         "Python".endswith("n") → Output: True
 
 2.5 String Formatting
 
         "My name is {}".format("Alice") → Output: "My name is Alice"
-
         f"My age is {25}" → Output: "My age is 25"
-
         "{} + {} = {}".format(2,3,2+3) → Output: "2 + 3 = 5"
-
         Right-align string "Hello" 10 spaces → Output: " Hello"
 
 2.6 Operator Precedence
 
         2 + 3 * 4 → Output: 14
-
         (2 + 3) * 4 → Output: 20
-
         2 ** 3 * 4 → Output: 32
-
         4 + 6 / 2 → Output: 7.0
 
 2.7 Math Functions
 
         round(3.6) → Output: 4
-
         round(3.2) → Output: 3
-
         import math; math.ceil(3.2) → Output: 4
-
         import math; math.floor(3.8) → Output: 3
 
 2.8 Conditional Statement Part 1
 
         Check positive number 5 → Output: "Positive"
-
         Check negative number -3 → Output: "Negative"
-
         Check zero 0 → Output: "Zero"
-
         Check even/odd number 7 → Output: "Odd"
 
 2.9 Conditional Statement Part 2
 
         Leap year check 2020 → Output: "Leap Year"
-
         Leap year check 2021 → Output: "Not Leap Year"
-
         Grade based on marks 85 → Output: "A"
-
         Grade based on marks 55 → Output: "C"
 
 2.11 List and Tuples
 
         List last 3 elements [1,2,3,4,5] → [3,4,5]
-
         Tuple max (10,20,30,40) → 40
-
         List append [1,2,3] + [4] → [1,2,3,4]
-
         Tuple count (1,2,2,3) → 2 occurs 2 times
 
 2.12 Range Method
 
         range(1,6) → [1,2,3,4,5]
-
         range(0,10,2) → [0,2,4,6,8]
-
         range(5) → [0,1,2,3,4]
-
         range(10,0,-2) → [10,8,6,4,2]
 
 2.13 For Loop in Python
 
         Print 1 to 5 → Output: 1 2 3 4 5
-
         Print squares of [1,2,3] → Output: 1 4 9
-
         Print characters of "Python" → Output: P y t h o n
-
         Sum of list [1,2,3] → Output: 6
 
 2.14 Break and Continue Keyword

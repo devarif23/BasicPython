@@ -1,0 +1,8 @@
+🔹 Loop সম্পর্কে যে বিষয়গুলো ভালোভাবে জানা লাগবে:
+
+✅ for loop, while loop এর basic ব্যবহার
+✅ range() function কিভাবে কাজ করে
+✅ string, list, tuple, dictionary এর উপর loop চালানো
+✅ Nested loop (loop-এর ভেতরে loop)
+✅ Loop control (break, continue, pass)
+✅ Loop দিয়ে data process করা (file পড়া, database থেকে data আনা)
