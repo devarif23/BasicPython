@@ -1,10 +1,24 @@
-# + addition 
-# - subtraction
-# * multiplecation
-# /  Division
-# % modulus
-# ** Exponentiations
-# // Floor division
+
+# ============== Arithmetic operator ===============
+
+# +         addition 
+# -         subtraction
+# *         multiplecation
+# /         Division
+# %         modulus
+# **        Exponentiations
+# //        Floor division
+
+
+# ============= comparison operator =================
+
+# ==        a==b
+# !=        a!=b
+# <         a<b
+# >         a>b
+# >=        a>=b
+# <=        a<=b
+
 
 
 
